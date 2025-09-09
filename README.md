@@ -10,8 +10,19 @@
 
 ###
 
-<p align="left">Information Systems student with core expertise in mobile app development using Flutter, effectively leveraging AI for coding efficiency. Beyond technical skills, possesses strong project management and attention to detail, honed through executing a complex 6-month institution yearbook design project. This design background also ensures the development of applications with an intuitive and engaging UI/UX. Eager to contribute to an innovative digital product development lifecycle.</p>
+# 👋 Hi, I’m Akhdan  
 
+🎓 Student at **Telkom University**, majoring in **Information Systems**  
+💻 Exploring **Web Development, Mobile App Development (Flutter), and UI/UX Design**  
+
+## 🎯 Goals  
+- Building a strong **portfolio** through real-world projects  
+- Contributing to or creating **commercial-scale applications**  
+
+---
+
+## 📚 Fun Fact  
+I enjoy spending my free time **reading books** 📖  
 ###
 
 <div align="left">
