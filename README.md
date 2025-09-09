@@ -10,21 +10,9 @@
 
 ###
 
-# 👋 Hi, I’m Akhdan  
-
 🎓 Student at **Telkom University**, majoring in **Information Systems**  
 💻 Exploring **Web Development, Mobile App Development (Flutter), and UI/UX Design**  
-
-## 🎯 Goals  
-- Building a strong **portfolio** through real-world projects  
-- Contributing to or creating **commercial-scale applications**  
-
----
-
-## 📚 Fun Fact  
-I enjoy spending my free time **reading books** 📖  
-###
-
+🤙 Social Media :
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   <a href="https://www.linkedin.com/in/akhdan-fadhil/" target="_blank">
@@ -35,6 +23,12 @@ I enjoy spending my free time **reading books** 📖
   </a>
 </div>
 
+## 🎯 Goals  
+- Building a strong **portfolio** through real-world projects  
+- Contributing to or creating **commercial-scale applications**  
+
+## 📚 Fun Fact  
+I enjoy spending my free time **reading books** 📖  
 ###
 
 <h2 align="left">Language & Tools I Learned</h2>
