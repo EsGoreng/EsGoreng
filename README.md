@@ -62,11 +62,13 @@ I enjoy spending my free time **reading books** 📖
 </div>
 
 ###
+
 <div align="center">
 
   ![Top Langs](https://github-readme-stats-tau-self-43.vercel.app/api/top-langs/?username=EsGoreng&layout=compact&langs_count=20&theme=dark&card_width=500)
 
 </div>
+
 ###
 
 <picture>
