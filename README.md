@@ -31,31 +31,6 @@ I enjoy spending my free time **reading books** 📖
 
 <h2 align="left">Language & Tools I Learned</h2>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" height="63" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="63" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="63" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="63" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="63" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="63" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="63" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="63" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="63" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="63" alt="adobeillustrator logo"  />
-</div>
 
 ###
 
