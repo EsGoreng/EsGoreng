@@ -25,10 +25,6 @@
   </a>
 </div>
 
-## 🎯 Goals  
-- Building a strong **portfolio** through real-world projects  
-- Contributing to or creating **commercial-scale applications**  
-
 ## 📚 Fun Fact  
 I enjoy spending my free time **reading books** 📖  
 ###
