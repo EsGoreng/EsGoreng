@@ -29,19 +29,6 @@
 I enjoy spending my free time **reading books** 📖  
 ###
 
-<h2 align="left">Language & Tools I Learned</h2>
-
-
-###
-
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats-tau-self-43.vercel.app/api/top-langs/?username=EsGoreng&layout=compact&langs_count=20&theme=dark&card_width=500)
-
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EsGoreng/EsGoreng/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EsGoreng/EsGoreng/output/pacman-contribution-graph.svg">
